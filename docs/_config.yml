@@ -1,6 +1,11 @@
 theme: jekyll-theme-cayman
 
-
+url: "https://creepybits.github.io" # the base hostname & protocol for your site
 plugins:
-  - jekyll-seo-tag
+  - "jekyll-seo-tag"
+  - "jekyll-textile-converter"
+  - "jekyll-opal"
+  - "jekyll-github-metadata"
+  - "jekyll-sitemap"
+  - "jekyll-coffeescript"
 
