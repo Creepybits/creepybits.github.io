@@ -42,12 +42,15 @@ twitter_username:   creepybits
 # ga_domain: ""
 
 # Build settings
+markdown: kramdown
+encoding: utf-8
+remote_theme: pages-themes/cayman@v0.2.0
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-textile-converter
-  - "jekyll-opal"
+  - jekyll-opal
   - jekyll-github-metadata
   - jekyll-sitemap
   - jekyll-coffeescript
