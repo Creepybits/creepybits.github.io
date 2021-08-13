@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+  
+  <script src="https://kit.fontawesome.com/813cefad78.js" crossorigin="anonymous"></script>
+  
+  </head>
 
-You can use the [editor on GitHub](https://github.com/Creepybits/github.io/edit/www/README.md) to maintain and preview the content for your website in Markdown files.
+![git logo](https://user-images.githubusercontent.com/60452756/129367317-656a2ed8-0eb1-4f22-84e0-3d3ff8f4af5a.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Creepybits (CRBT) Token
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About CRBT Token
 
-```markdown
-Syntax highlighted code block
+Creepybits is a digital project started in early 2021 and aims to promote and help financing new digital art creators. The market for digital art exploded with the launch of Non-Fungible Tokens (NFT). At the same time, it created a jungle out there with a plethora of platforms where people buy, trade and sell NFT’s. By nature it’s a competitive market, which makes it hard for new aspiring artists to make themselves seen.
 
-# Header 1
-## Header 2
-### Header 3
+Creepybits aims to help these creators promote their art.
 
-- Bulleted
-- List
+Using CRBT creators can rent promotional space for their digital art, as well as accept CRBT as payment of their art.
 
-1. Numbered
-2. List
+<hr>
 
-**Bold** and _Italic_ and `Code` text
+### Technical Info Creepybits (CRBT)
 
-[Link](url) and ![Image](src)
-```
+Name: Creepybits
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Symbol: CRBT
 
-### Jekyll Themes
+Decimals: 18
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Creepybits/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Total Supply: Total supply: 100.000.000
 
-### Support or Contact
+Chain: BEP-20
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contract: [0x6aA8194b6dD2a67d2C88f6D66a313366B1556f81](https://bscscan.com/address/0x6aa8194b6dd2a67d2c88f6d66a313366b1556f81)
+
+<hr>
+
+### Distribution of CRBT
+
+Starting at Q4 2021 CRBT will be available through selfdrop service at the initial price of 0.0001 BNB.
+
+A total of 25% of the total supply will be available through selfdrop.
+
+Sponsors will get tokens as soon as their sponsorship starts.
+
+20% of the total supply will be available for sponsors.
+
+Starting at Q1 2022 various airdrops will be made available for the public.
+
+5% of the total supply will be available through airdrops
+
+Reward system starting at Q2 2022.
+
+20% of the total supply will be distributed through reward system.
+
+Development
+
+30% of the total supply will be used for development and maintaining the systems.
+
+#### CRBT will also be tradable between individuals from the very beginning.
+
+<hr>
+
+### CRBT Distribution Chart
+
+![Skärmklipp](https://user-images.githubusercontent.com/60452756/129369170-a2f55be7-f8dd-4cfc-99e4-38f963de1e70.PNG)
+
+<hr>
+
+### Want to sponsor this project?
+
+<p><i class='fa fa-envelope fa-fw w3-text-blue w3-xxlarge'></i> Email: sponsor@creepybits.org</a></p>
+
+
+</html>
