@@ -3,6 +3,8 @@
   
   <script src="https://kit.fontawesome.com/813cefad78.js" crossorigin="anonymous"></script>
   
+  {% seo %}
+
   </head>
 
 ![git logo](https://user-images.githubusercontent.com/60452756/129367317-656a2ed8-0eb1-4f22-84e0-3d3ff8f4af5a.png)
