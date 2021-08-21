@@ -81,3 +81,13 @@ Would you like to be part of Project Creepybits as a sponsor, an investor or hav
 <div class="work">
 <p><i class='fa fa-envelope fa-fw w3-text-blue w3-xlarge'></i><b>Email: <a href="mailto:sponsor@creepybits.org">sponsor@creepybits.org</a></b></p>
 </div>
+
+<div>
+
+
+<a href="https://www.facebook.com/creepybits/" target="_blank" class="facebook"><i class="fa fa-facebook fa-2x"></i></a>
+<a href="https://twitter.com/creepybits" target="_blank" class="twitter"><i class="fa fa-twitter fa-2x"></i></a>
+<a href="https://www.linkedin.com/in/zanno-jacklin-37a4b2b2/" target="_blank" class="linkedin"><i class="fa fa-linkedin fa-2x"></i></a>
+<a href="https://github.com/Creepybits" target="_blank" class="github"><i class="fa fa-github fa-2x"></i></a>
+
+</div>
