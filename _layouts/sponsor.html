@@ -66,20 +66,40 @@
     }
 
 
-    #banner {
-    background:url("https://i.imgur.com/P1jgwcL.png");
-    align-items: center;
-    max-width:100%;
-    min-height:350px;
-    background-repeat: no-repeat;}
-    @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
-    @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
-    @media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
+    header {
+    background: linear-gradient(to right, #0066ff 0%, #009900 100%);
+    padding: 30px;
+    height: 300px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 23%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  .center {
+text-align: center;
+}
+
 
     </style>
   </head>
 
   <body>
+
+    <header>
+    <div class="vertical-center">
+    <p>
+    <img class="center" src="https://i.imgur.com/JytHaHG.png" alt="loggo"></img>
+    </p>
+    </div>
+    </header>
 
     <div id="banner"></div>
 
