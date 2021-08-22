@@ -1,7 +1,18 @@
 ---
-layout: page
-Title: sponsor
+layout: sponsor
+Title: Sponsor
 ---
-![newgit](https://user-images.githubusercontent.com/60452756/130225599-a9c385d6-1ffa-4cff-91ea-3f25cd7b02fa.png)
 
-## FOR SPONSORS, INVESTORS AND POTENTIAL CO-WORKERS
+
+
+<div style="background-image: url('https://i.imgur.com/jr7CtOe.png');">
+
+
+<div>
+<center>
+<p><h3>FOR POTENTIAL SPONSORS, INVESTORS AND CO-WORKERS</h3></p>
+</center>
+
+<hr class="bottom">
+
+</div>
