@@ -37,7 +37,7 @@ Contract: [0x6aA8194b6dD2a67d2C88f6D66a313366B1556f81](https://bscscan.com/addre
 
 ### Distribution of CRBT
 <ul>
-<li>Starting at Q4 2021(3) CRBT will be available through selfdrop service at the initial price of 0.0001 BNB.</li><br>
+<li>Starting at Q1 2022(3) CRBT will be available through selfdrop service at the initial price of 0.0001 BNB.</li><br>
 
 <li>A total of 25% of the total supply will be available through selfdrop.</li><br>
 
@@ -45,11 +45,11 @@ Contract: [0x6aA8194b6dD2a67d2C88f6D66a313366B1556f81](https://bscscan.com/addre
 
 <li>20% of the total supply will be available for sponsors.</li><br>
 
-<li>Starting at Q1 2022(4) various airdrops will be made available for the public.</li><br>
+<li>Starting at Q3 2022(4) various airdrops will be made available for the public.</li><br>
 
 <li>5% of the total supply will be available through airdrops</li><br>
 
-<li>Reward system starting at Q2 2022(5).</li><br>
+<li>Reward system starting at Q4 2022(5).</li><br>
 
 <li>20% of the total supply will be distributed through reward system.</li><br>
 
@@ -87,7 +87,7 @@ Would you like to be part of Project Creepybits as a sponsor, an investor or hav
 
 <a href="https://www.facebook.com/creepybits/" target="_blank" class="facebook"><i class="fa fa-facebook fa-2x"></i></a>
 <a href="https://twitter.com/creepybits" target="_blank" class="twitter"><i class="fa fa-twitter fa-2x"></i></a>
-<a href="https://www.linkedin.com/in/zanno-jacklin-37a4b2b2/" target="_blank" class="linkedin"><i class="fa fa-linkedin fa-2x"></i></a>
+<a href="https://www.linkedin.com/company/creepybits" target="_blank" class="linkedin"><i class="fa fa-linkedin fa-2x"></i></a>
 <a href="https://github.com/Creepybits" target="_blank" class="github"><i class="fa fa-github fa-2x"></i></a>
 
 </div>
