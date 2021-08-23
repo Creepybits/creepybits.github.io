@@ -10,7 +10,7 @@ Title: Sponsor
 
 <div>
 <center>
-<p><h3>FOR POTENTIAL SPONSORS, INVESTORS AND CO-WORKERS</h3></p>
+<p><h3>SOME TEXT</h3></p>
 </center>
 
 <hr class="bottom">
