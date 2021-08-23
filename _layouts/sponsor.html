@@ -86,25 +86,28 @@
 
      img {
     display: block;
-    margin-left: 50%;
-    margin-right: auto;
+    margin-left: 60%;
     max-width: 100%;
-    max-height: 200px;
+    max-height: 300px;
   }
+  @media screen and (min-width: 64em) { img { padding: 5rem 6rem; } }
+  @media screen and (min-width: 42em) and (max-width: 64em) { img { padding: 3rem 4rem; } }
+  @media screen and (max-width: 42em) { img { padding: 2rem 1rem; } }
 
 
     </style>
   </head>
 
   <body>
-
+    <div class="container-fluid">
     <header>
     <div class="vertical-center">
     <p>
-    <img class="center" src="https://i.imgur.com/JytHaHG.png" alt="loggo"></img>
+    <img src="https://i.imgur.com/JytHaHG.png" alt="loggo"></img>
     </p>
     </div>
     </header>
+  </div>
 
     <div id="banner"></div>
 
