@@ -68,14 +68,15 @@
 
     .creepy-header {
       <a href="https://user-images.githubusercontent.com/60452756/130225599-a9c385d6-1ffa-4cff-91ea-3f25cd7b02fa.png"></a>
-          }
+      <img border="0" alt="banner" src="https://user-images.githubusercontent.com/60452756/130225599-a9c385d6-1ffa-4cff-91ea-3f25cd7b02fa.png" maxwidth="100 %"></img>
+    }
     </style>
   </head>
 
   <body>
 
     <header class="page-header" role="banner">
-      <h1 class="creepy-header"><a href="https://user-images.githubusercontent.com/60452756/130225599-a9c385d6-1ffa-4cff-91ea-3f25cd7b02fa.png"></a></h1>
+      <h1 class="project-name">{{ page.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>

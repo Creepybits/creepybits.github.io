@@ -31,7 +31,7 @@ github_repo: "https://github.com/creepybits/creepybits.github.io.git" # you code
 permalink: pretty
 
 # SNS settings
-RSS: false
+RSS: true 
 github_username:    creepybits
 facebook_username:  creepybits
 instagram_username: creepybits
